@@ -58,7 +58,7 @@ function Home() {
           transition={{ duration: 0.6, delay: 0.4 }}
         >
           <h1 className="text-4xl font-extrabold text-gray-800 mb-4">
-            Welcome to the Pathfinding & Sorting Algorithms Visualizer
+            Welcome to the Pathfinding & Sorting Visualization App
           </h1>
         </motion.div>
         <motion.div
